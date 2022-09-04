@@ -1,8 +1,8 @@
 # data_science_portfolio
 
 <br/>
-This repository is about projects that I have completed during my data science course. <br/>
-Tools : Python, Pandas, Numpy, Spark, SQL, Matplotlib, Seaborn, Scikit-learn, Keras, Tensorflow, Streamlit<br/>
+This repository is about projects that I have completed during my data science course. <br/><br/>
+Tools : Python, Pandas, Numpy, Spark, SQL, Matplotlib, Seaborn, Scikit-learn, Keras, Tensorflow, Streamlit<br/><br/>
 Skills : Data processing, EDA, NLP, Machine Learning, Deep Learning <br/>
 <br/>
 
