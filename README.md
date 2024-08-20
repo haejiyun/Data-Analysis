@@ -1,7 +1,7 @@
 # Data Analysis
 
 <br/>
-This repository is about projects that I have completed during my data analysis course. 
+This repository contains a series of data analysis projects completed during my data analysis course, showcasing various techniques and methodologies applied to real-world datasets.
 <br/>
 
 ----------
