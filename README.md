@@ -1,11 +1,21 @@
 # Data Analysis Portfolio
 
-Welcome to my Machine Learning Portfolio, where I showcase a collection of diverse projects demonstrating my expertise in various aspects of machine learning and deep learning. Each project presented here highlights my approach to tackling real-world problems using cutting-edge algorithms, extensive data processing, and thoughtful model evaluation. From socio-economic class prediction to detecting counterfeit bills and classifying images of Hollywood actresses, this portfolio provides a glimpse into the breadth and depth of my skills in both supervised and unsupervised learning. 
 
 ----------
 ## [Python] # Panorama of Food Security
 
-Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables.<br/>
+Exhaustive study on the malnutrition in the world
+
+data cleaning, data processing, data exploration
+
+Mathematical calculation in order to understand
+on the Global level, malnutrition status, food availability and number of possible people to nourrish, vegetal food availability, distribution of food usage, domestic food disponibility
+On the country level, food availability, aides, malnutrition
+Focus on cereals products and several specific countries to showcase 
+
+data on food aid, food availability, population, undernutrition from FAO
+proposed solution to malnutrition![image](https://github.com/user-attachments/assets/d6f6603e-4528-4520-8639-0229a11db3d9)
+<br/>
 
 <p align="center">
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/distribution.png" alt="distribution" width="250" height="200">
