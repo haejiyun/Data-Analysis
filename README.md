@@ -14,13 +14,12 @@ On the country level, food availability, aides, malnutrition
 Focus on cereals products and several specific countries to showcase 
 
 data on food aid, food availability, population, undernutrition from FAO
-proposed solution to malnutrition![image](https://github.com/user-attachments/assets/d6f6603e-4528-4520-8639-0229a11db3d9)
+proposed solution to malnutrition
 <br/>
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/distribution.png" alt="distribution" width="250" height="200">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/heatmap.png" alt="heatmap" width="300" height="200">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/ROC.png" alt="ROC" width="250" height="200">
+  <img src="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/dispo.png" width="250" height="200">
+  <img src="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/aid.png" width="300" height="200">
 <p/>
 
 <a href="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/panorama_malnutrition.pdf">Project</a>; <a href="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/panorama_malnutrition.ipynb">Code</a><br/>
