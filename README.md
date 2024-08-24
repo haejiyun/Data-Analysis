@@ -19,7 +19,18 @@ Two years e-commerce salses analysis from datasets of customers, product, and sa
 ----------
 ## [Python] E-commerce sales and customer profile from CRM
 
-Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables..<br/>
+Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables.
+CRM of bookstore 
+As part of evaluating its online activity, a study is carried out on performance and customers.
+Performance analysis around different sales indicators
+Analysis of customers from profile to behavior
+
+Revenue, demographic profile, shopping cart
+
+exhaustive Data cleaning and Data exploration
+test chi2
+test Kruskal
+<br/>
 
 <p align="center">
   <img src="https://github.com/haejiyun/Data-Analysis/blob/main/E-commerce%20sales%20and%20customer%20profile/panier.png" width="250" height="200">
