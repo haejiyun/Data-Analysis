@@ -1,7 +1,6 @@
 # Data Analysis Portfolio
-Welcome to my Data Analysis portfolio, where I dive into diverse datasets to extract meaningful insights and drive data-informed strategies. Through rigorous data cleaning, processing, and analytical techniques, I transform complex information into clear, actionable conclusions. This collection highlights my ability to work with various types of data, apply statistical methods, and deliver impactful analyses that support decision-making.
+Welcome to my Data Analysis portfolio, where I dive into diverse datasets to extract meaningful insights and drive data-informed strategies. Through rigorous data cleaning, processing, and analytical techniques, I transform complex information into clear, actionable conclusions. This collection highlights my ability to work with various types of data, apply statistical methods, and deliver impactful analyses that support decision-making.<br>
 
-<br/>
 ----------
 ## [Python] Panorama of Food Security
 
