@@ -27,7 +27,7 @@ Two years e-commerce salses analysis from datasets of customers, product, and sa
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/ROC.png" alt="ROC" width="250" height="200">
 <p/>
 
-<a href="https://github.com/haejiyun/Data-Analysis/blob/main/E-commerce%20sales%20and%20customer%20profile/analyse_de_vente.pdf">Project</a>; <a href="https://github.com/haejiyun/Data-Analysis/blob/main/E-commerce%20sales%20and%20customer%20profile/analyse_de_vente.ipynb">Code</a><br/>
+<a href="https://github.com/haejiyun/Data-Analysis/blob/main/E-commerce%20sales%20and%20customer%20profile/analyse_ventes.pdf">Project</a>; <a href="https://github.com/haejiyun/Data-Analysis/blob/main/E-commerce%20sales%20and%20customer%20profile/analyse_de_vente.ipynb">Code</a><br/>
 <br/>
 
 
