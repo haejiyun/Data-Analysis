@@ -1,20 +1,16 @@
 # Data Analysis Portfolio
-
+Welcome to my Data Analysis portfolio, where I explore and interpret complex datasets to uncover actionable insights. Through meticulous data cleaning, processing, and analysis, I transform raw data into meaningful narratives that drive informed decision-making. This portfolio showcases my ability to handle diverse datasets, apply statistical methods, and deliver clear, data-driven solutions.
 
 ----------
 ## [Python] Panorama of Food Security
 
-Exhaustive study on the malnutrition in the world
+This project involves an exhaustive study on global malnutrition, aiming to provide a comprehensive overview of food security across different regions.
 
-data cleaning, data processing, data exploration
-
-Mathematical calculation in order to understand
-on the Global level, malnutrition status, food availability and number of possible people to nourrish, vegetal food availability, distribution of food usage, domestic food disponibility
-On the country level, food availability, aides, malnutrition
-Focus on cereals products and several specific countries to showcase 
-
-data on food aid, food availability, population, undernutrition from FAO
-proposed solution to malnutrition
+Key steps in the analysis included:
+- Data Cleaning and Processing: Ensuring the data's accuracy and readiness for analysis.
+- Global-Level Analysis: Examining malnutrition status, food availability, potential population support, vegetal food availability, food usage distribution, and domestic food availability.
+- Country-Level Analysis: Focusing on specific countries to evaluate food availability, foreign aid, and malnutrition levels, with a particular emphasis on cereal products.
+The analysis utilized data from the FAO on food aid, food availability, population, and undernutrition. The project also proposed potential solutions to address global malnutrition issues.
 <br/>
 
 <p align="center">
@@ -29,18 +25,14 @@ proposed solution to malnutrition
 ----------
 ## [Python] E-commerce sales and customer profile from CRM
 
-Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables.
-CRM of bookstore 
-As part of evaluating its online activity, a study is carried out on performance and customers.
-Performance analysis around different sales indicators
-Analysis of customers from profile to behavior
+In this project, I conducted a detailed analysis of two years of e-commerce sales data from a bookstore’s CRM, focusing on customer profiles and sales performance.
 
-Revenue, demographic profile, shopping cart
+Key aspects of the analysis included:
+- Data Cleaning and Preparation: Extensive data cleaning was required to prepare the datasets for analysis.
+- Sales Performance Analysis: Evaluation of yearly sales, sales trends over time, sales by category, and customer demographics.
+- Customer Analysis: Examination of customer profiles and behavior, including revenue generation, demographic characteristics, and shopping cart patterns.
 
-exhaustive Data cleaning and Data exploration
-test chi2
-test Kruskal
-<br/>
+Statistical tests such as Chi-squared and Kruskal-Wallis were employed to study relationships between variables. The analysis provided insights into the bookstore's online activity, helping to assess performance and customer engagement.<br/>
 
 <p align="center">
   <img src="https://github.com/haejiyun/Data-Analysis/blob/main/E-commerce%20sales%20and%20customer%20profile/panier.png" width="250" height="200">
