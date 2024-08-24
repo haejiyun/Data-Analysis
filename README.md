@@ -2,7 +2,7 @@
 
 
 ----------
-## [Python] # Panorama of Food Security
+## [Python] Panorama of Food Security
 
 Exhaustive study on the malnutrition in the world
 
