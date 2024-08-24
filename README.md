@@ -16,7 +16,7 @@ The analysis utilized data from the FAO on food aid, food availability, populati
 <p align="center">
   <img src="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/dispo.png" width="250" height="200">
   <img src="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/aid.png" width="300" height="200">
-  <img src="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/thailande.png" width="300" height="200">
+  <img src="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/thailande.png" width="250" height="200">
 <p/>
 
 <a href="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/panorama_malnutrition.pdf">Project</a>; <a href="https://github.com/haejiyun/Data-Analysis/blob/main/Panorama%20of%20Food%20Security/panorama_malnutrition.ipynb">Code</a><br/>
